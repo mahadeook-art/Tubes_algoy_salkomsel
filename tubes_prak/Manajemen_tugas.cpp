@@ -8,6 +8,8 @@ struct Tugas{
     int prioritas;
     Tugas*next;
 
+
+Tugas *head= NULL
 };
 
 
